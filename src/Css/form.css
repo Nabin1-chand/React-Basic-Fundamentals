@@ -1,0 +1,26 @@
+
+.my_form{
+    margin-top: 50px;
+}
+.Form_Container{
+  
+    margin-right: 10px;
+    
+}
+input{
+    display:block;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 20px;
+    height:30px ;
+    width:300px;
+    
+    
+}
+.button_contianer{
+    margin:30px;
+    border-radius: 20px;
+    height:30px;
+    width:100px;
+    letter-spacing: 2px;
+}
